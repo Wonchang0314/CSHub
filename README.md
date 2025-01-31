@@ -67,6 +67,7 @@
 - 생각보다 **기획안과 같은 문서 작성**에 많은 시간이 할애되면서,  
   초반에 **최적화에 충분히 집중하지 못한 점**이 아쉬웠습니다.
 
+---
 
 ## 퀴즈 주제 정하기
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
