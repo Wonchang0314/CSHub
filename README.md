@@ -10,7 +10,6 @@
 
 ## 🚀 배포 및 리소스  
 - **배포 링크**: [CS Hub](https://cs-hub-murex.vercel.app/)  
-- **GitHub**: [CSHub Repository](https://github.com/Wonchang0314/CSHub)
 
 ---
 
